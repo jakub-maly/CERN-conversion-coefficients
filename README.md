@@ -4,7 +4,7 @@ This repository acts as an archive for several papers I wrote over the last few 
 _internship project report_
 `2024-09-CERN-summer-student.pdf`
 
-Project report for my CERN Summer Student 2024 project, titled: _Calculating conversion coefficients between several quantities used for characterising radiation at the CERN accelerator complex._ The project was done as part of the Monitoring and Calculations Working Group (MCWG) at CERN; supervised by Auriane Canesse and Daniel Prelipcean. The report can also be found at https://cds.cern.ch/record/2909393.
+Project report for my CERN Summer Student 2024 project, titled: _Calculating conversion coefficients between several quantities used for characterising radiation at the CERN accelerator complex._ The project was done as part of the Monitoring and Calculations Working Group (MCWG) at CERN; supervised by Auriane Canesse and Daniel Prelipcean.
 
 ## Data-centric programming in Haskell
 _honours thesis_
